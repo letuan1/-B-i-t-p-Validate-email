@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    function upperCase(str) {
+        str = prompt("nhập 1 chuỗi kí tự");
+        regexp = /^[A-Z]/;
+        if (regexp.test(str)) {
+            alert("String's first character is uppercase");
+        } else {
+            alert("String's first character is not uppercase");
+        }
+    }
+
+
+</script>
+<button type="button" onclick="upperCase()">start</button>
+</body>
+</html>

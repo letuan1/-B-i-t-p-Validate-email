@@ -1,0 +1,1 @@
+khi ta chay file html xe hien thi 1 promt khi ta nhap email neu hien thi "String's first character is uppercase"  ko hop le xe hien thi "String's first character is not uppercase"
